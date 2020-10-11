@@ -10,6 +10,6 @@ This is an Image processing system which detects between the three common invasi
     <a href="https://github.com/Azariagmt/gdg-v09-hackathon/tree/react-native-app">Native app repo</a>
     <a href="https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40jedisam/weed-ai-a3467740ffd14cdb9d0cd3344f62c849-signed.apk">Download link</a>
     <h3>To check out our model branch go to the below url </h3>
-    <a href="https://github.com/Azariagmt/gdg-v09-hackathon/tree/model">Flask repo</a>  
+    <a href="https://github.com/Azariagmt/gdg-v09-hackathon/tree/model">Model repo</a>  
   </body>
   </html>
