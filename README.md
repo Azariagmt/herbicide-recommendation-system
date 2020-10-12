@@ -1,4 +1,5 @@
 # gdg-v09-hackathon
+# v0.0.1
 This is an Image processing system which detects between the three common invasive plant species in Ethiopia: parthenium weed (Parthenium hysterophorus),prosopis (Prosopis juliflora) and lantana weed (Lantana camara). ) which accuracy will also be scaled with more data.
 
 <html>
