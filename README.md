@@ -1,5 +1,5 @@
 ## Herbicide recommendation system using flask for the backend and react and react native for the front end
-This is an Image processing system which detects between the three common invasive plant species in Ethiopia: parthenium weed (Parthenium hysterophorus),prosopis (Prosopis juliflora) and lantana weed (Lantana camara). ) which accuracy will also be scaled with more data.
+This is an Image processing system which detects between the three common invasive plant species in Ethiopia: parthenium weed (Parthenium hysterophorus),prosopis (Prosopis juliflora) and lantana weed (Lantana camara).
 
 <html>
   <body>
